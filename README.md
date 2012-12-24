@@ -11,4 +11,4 @@ Hunter Davis, 2012/2013
 
 Current STV Tree ->
 -------------------------------------------------------------------------------
-![ScreenShot](http://raw.github.com/huntergdavis/AndroidEasyGameUtils/master/gameutilstree.jpg)
+![ScreenShot](https://raw.github.com/huntergdavis/AndroidEasyGameUtils/master/gameutilstree.jpg)
