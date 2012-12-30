@@ -1,3 +1,7 @@
 <resources>
+
     <string name="app_name">AndroidEasyGameUtils</string>
+    <string name="title_activity_game_select_screen">5 Seconds</string>
+    <string name="title_activity_credits_screen">5 Seconds - Goodbye</string>
+
 </resources>
